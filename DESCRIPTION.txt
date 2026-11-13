@@ -1,0 +1,31 @@
+WHAT THE RENDERS SHOW (text description for a reader who cannot see the images)
+
+Model: an anime-style young woman, about 1.63 m tall, standing in a relaxed pose with her right hand on her hip
+and her head tilted slightly down and to one side. 92,291 triangles, one object, no textures in the file
+(placeholder colours were applied per material for these renders).
+
+Head and hair
+- Long straight hair (mint placeholder colour) falling to below the hips at the back, with side-swept bangs
+  that cover the forehead and part of the eyes, a curled ahoge on top, and a braided side lock ending in a
+  round hair ornament.
+- Large pointed cat ears with tufted fur on the inner side; a thin headband across the top of the head.
+- Large anime eyes (separate eye, eye-highlight and eyelash meshes), a small nose, a small smiling mouth.
+- From the side, the bangs and side hair hide most of the face, so a "bare head" set hides the hair.
+
+Face, chin and jaw (from the bare-head and silhouette views)
+- The face is a typical anime shape: wide at the cheekbones, tapering to a narrow, pointed chin.
+- Side profile: forehead slopes gently, small nose point, very soft lips, then the chin comes forward slightly
+  and turns under into a short jaw underside before meeting the neck.
+- The jaw line runs fairly straight from below the ear to the chin; there is no strong jaw angle.
+- The head mesh is only a face/scalp shell: there is no skull at the top or back (it is hidden by hair).
+- A choker with a ribbon sits around the neck.
+
+Body and outfit
+- Frilled white swimsuit top and frilled skirt-style bottom, a blue hooded/collared piece on the back and
+  shoulders, detached frilled sleeves and wrist cuffs, a bead necklace, ankle ties and heeled sandals.
+- A long cat tail curving out behind the legs.
+
+Files
+- sheets/OVERVIEW.jpg: 8 key views in one image.
+- sheets/SHEET_1..5: full body; head all around; face and chin close-ups; bare head + silhouettes; head silhouettes.
+- views/: every single view, named by part and angle (e.g. bare_side_left.jpg, chin_q34_low_left.jpg).

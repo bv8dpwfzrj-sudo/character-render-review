@@ -1,0 +1,25 @@
+MODEL SUMMARY: Untitled.obj (exported from Blender 5.3)
+Object: player_019_mint_swimsuit_skin_LOD0 (one object, highest level of detail)
+Size of the OBJ: 9.4 MB of text (not included here; renders only)
+
+Geometry
+- 64,604 vertices, 92,291 triangles (all faces are triangles)
+- 43,875 UV coordinates, 60,960 normals
+- Bounding box (Blender units, Y up in the OBJ): width 0.657, height 1.628, depth 0.548
+  -> a full-body humanoid about 1.63 m tall, feet at Y = 0
+
+Triangles per material
+  33,081  swimsuit_01
+  20,562  swimsuit_03
+  13,926  swimsuit_hair_01
+  10,050  hair_2
+   5,792  swimsuit_02
+   4,170  face_new
+   2,948  common_face_mask
+   1,098  jiemao (eyelashes)
+     364  gaoguang (eye highlights)
+     300  eyes
+
+Notes
+- Material names (MI_ prefix) suggest the model came from an Unreal Engine game.
+- Hair is about 26% of the triangles, the face about 9%, the outfit/body about 64%.
