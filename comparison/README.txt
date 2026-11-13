@@ -13,3 +13,9 @@ OVERLAY_ref_red_new_cyan.png
 
 QUESTION: list everything about the new head's face, chin, jaw, cheeks, eyes, nose, mouth, neck and overall head
 shape that differs from the reference, most important first, with concrete suggestions to fix each.
+
+REVISION 2 (current COMPARE_bare_head.png / OVERLAY_ref_red_new_cyan.png; the previous round is kept as *_v1.png):
+- jawline now climbs from the chin toward the ear on each side (it used to run back horizontally),
+- skull shortened at the back, lower/flatter forehead, skull base raised so it no longer hides the jaw,
+- area under the eyes pulled back so the nose separates from the cheeks,
+- neck now flares into the shoulders (trapezius) with soft neck muscles instead of a long tube.
